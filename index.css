@@ -43,7 +43,7 @@ nav{
     width: 100vw;
     padding: 15px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     position: sticky;
     top: 0px;
 }
